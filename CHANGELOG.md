@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/asliak/week12/compare/v1.1.0...v1.2.0) (2026-06-04)
+
+
+### Features
+
+* Readme file updated feature. ([310e226](https://github.com/asliak/week12/commit/310e226ca9545a00801262a7dc8cd1908373a773))
+
 # [1.1.0](https://github.com/asliak/week12/compare/v1.0.0...v1.1.0) (2026-06-04)
 
 
