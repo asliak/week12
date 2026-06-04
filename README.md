@@ -1,1 +1,1 @@
-# This is a feature update v2
+# This is a major (breaking change) update v2
