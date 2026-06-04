@@ -1,3 +1,18 @@
+# [2.0.0](https://github.com/asliak/week12/compare/v1.2.0...v2.0.0) (2026-06-04)
+
+
+* Merge pull request [#4](https://github.com/asliak/week12/issues/4) from asliak/break/readme-file-changed ([d5cb4cf](https://github.com/asliak/week12/commit/d5cb4cf4c49a11842f443f025ed116e318c41290))
+
+
+### Bug Fixes
+
+* Readme file changed fix. ([b9ae737](https://github.com/asliak/week12/commit/b9ae737ba5428f0f75d10cacc7a71eeccc16e1e5))
+
+
+### BREAKING CHANGES
+
+* Readme file changed major.
+
 # [1.2.0](https://github.com/asliak/week12/compare/v1.1.0...v1.2.0) (2026-06-04)
 
 
