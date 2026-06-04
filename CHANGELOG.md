@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/asliak/week12/compare/v3.0.0...v3.1.0) (2026-06-04)
+
+
+### Features
+
+* add lint testing pipeline ([0020d7e](https://github.com/asliak/week12/commit/0020d7edbd01fb685ca2b6310c8aecaa382eaa94))
+
 # [3.0.0](https://github.com/asliak/week12/compare/v2.1.0...v3.0.0) (2026-06-04)
 
 
