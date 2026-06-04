@@ -1,3 +1,10 @@
+## [3.1.2](https://github.com/asliak/week12/compare/v3.1.1...v3.1.2) (2026-06-04)
+
+
+### Bug Fixes
+
+* apply ruff formatting ([dae99ae](https://github.com/asliak/week12/commit/dae99ae6a82ddcacd39a95925e8e311bcd566f23))
+
 ## [3.1.1](https://github.com/asliak/week12/compare/v3.1.0...v3.1.1) (2026-06-04)
 
 
