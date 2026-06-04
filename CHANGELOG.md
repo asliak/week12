@@ -1,3 +1,13 @@
+# [3.0.0](https://github.com/asliak/week12/compare/v2.1.0...v3.0.0) (2026-06-04)
+
+
+* Merge pull request [#7](https://github.com/asliak/week12/issues/7) from asliak/break/readme-update-4 ([3ef26cc](https://github.com/asliak/week12/commit/3ef26ccf682339d3b20b86c5d65655610e3df34a))
+
+
+### BREAKING CHANGES
+
+* Readme file changed major.
+
 # [2.1.0](https://github.com/asliak/week12/compare/v2.0.0...v2.1.0) (2026-06-04)
 
 
