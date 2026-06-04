@@ -1,3 +1,10 @@
+## [3.1.1](https://github.com/asliak/week12/compare/v3.1.0...v3.1.1) (2026-06-04)
+
+
+### Bug Fixes
+
+* remove unused import ([156d8a6](https://github.com/asliak/week12/commit/156d8a64e3535be822a0942c36a246ed3cbdf1dc))
+
 # [3.1.0](https://github.com/asliak/week12/compare/v3.0.0...v3.1.0) (2026-06-04)
 
 
