@@ -1,3 +1,10 @@
+## [3.1.3](https://github.com/asliak/week12/compare/v3.1.2...v3.1.3) (2026-06-04)
+
+
+### Bug Fixes
+
+* trigger lint check ([f7be472](https://github.com/asliak/week12/commit/f7be4724d5fcd858277a4625cafd0a3d25ca4e2e))
+
 ## [3.1.2](https://github.com/asliak/week12/compare/v3.1.1...v3.1.2) (2026-06-04)
 
 
